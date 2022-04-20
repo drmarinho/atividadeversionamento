@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+    padding: 20px;
+    color: blueviolet;
+}
+h2{
+    text-align: center;
+    padding: 10px;
+    color: white;
+    display: block;
+    background: black;
+}
+p{
+    text-align: justify;
+    margin: 20px;
+    text-indent: 30px;
+}
